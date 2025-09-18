@@ -26,9 +26,9 @@ export default function Home() {
                 Currently a 2nd-year undergraduate student at IIIT Kota, specializing in Artificial Intelligence and Data Engineering.
                 Passionate Full Stack Developer with expertise in the MERN stack, Next.js, Flutter, and Django.
 
-                I work as a freelance developer Know More.
+                I work as a freelance developer <a href="./about">Know More</a> 
                 
-                I also manage the official website of IIIT Kota’s Alumni Cell Click Here to know more. 
+                I also manage the official website of IIIT Kota’s Alumni Cell <a href="https://alumni.iiitkota.ac.in/about"></a> Click Here to know more. 
               </p>
 
             </div>
