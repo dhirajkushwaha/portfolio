@@ -18,7 +18,7 @@ export default function Home() {
                 Hello there 👋
               </h1>
 
-              <h1>
+              <h1 className="fontA">
                 I am Dhiraj Kushwaha
               </h1>
               <p>
